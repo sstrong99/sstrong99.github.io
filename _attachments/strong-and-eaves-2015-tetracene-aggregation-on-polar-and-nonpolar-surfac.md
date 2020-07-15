@@ -1,0 +1,21 @@
+---
+layout: attachment
+title: Strong and Eaves - 2015 - Tetracene Aggregation on Polar and Nonpolar Surfac
+date: 
+type: attachment
+parent_id: '10'
+published: false
+password: ''
+status: inherit
+categories: []
+tags: []
+meta:
+  _wp_attached_file: 2019/11/Strong-and-Eaves-2015-Tetracene-Aggregation-on-Polar-and-Nonpolar-Surfac.pdf
+author:
+  login: strong1
+  email: strong1@uchicago.edu
+  display_name: strong1
+  first_name: Steven
+  last_name: Strong
+permalink: "/strong1/publications/strong-and-eaves-2015-tetracene-aggregation-on-polar-and-nonpolar-surfac/"
+---

@@ -1,0 +1,21 @@
+---
+layout: attachment
+title: Kananenka et al. - 2020 - Dephasing and Decoherence in Vibrational and Elect
+date: 
+type: attachment
+parent_id: '0'
+published: false
+password: ''
+status: inherit
+categories: []
+tags: []
+meta:
+  _wp_attached_file: 2020/03/Kananenka-et-al.-2020-Dephasing-and-Decoherence-in-Vibrational-and-Elect.pdf
+author:
+  login: strong1
+  email: strong1@uchicago.edu
+  display_name: strong1
+  first_name: Steven
+  last_name: Strong
+permalink: "/strong1/kananenka-et-al-2020-dephasing-and-decoherence-in-vibrational-and-elect-2/"
+---
