@@ -1,0 +1,12 @@
+I"�<ul>
+  <li><a href="https://lammps.sandia.gov/doc/fix_flow_gauss.html">Contribution to LAMMPS</a> for the simulation of steady-state flow</li>
+  <li><a href="https://lammps.sandia.gov/doc/pair_e3b.html">Contribution to LAMMPS</a> for the explicit three-body (E3B) water model</li>
+  <li><a href="https://github.com/sstrong99">GitHub</a>
+    <ul>
+      <li><a href="https://github.com/sstrong99/calcWaterIR">GPU accelerated code</a> to compute the IR spectrum of water using a mixed quantum-classical approach</li>
+      <li><a href="https://github.com/sstrong99/amideImap">Code</a> to calculate amide I frequencies and couplings for specified (labeled) chromophores in a protein</li>
+      <li><a href="https://github.com/sstrong99/mapForce">Code</a> to augment LAMMPS with a force field for vibrationally excited water molecules (see “<a href="https://pubs.acs.org/doi/10.1021/acs.jpcb.9b11655">Dephasing and Decoherence in Vibrational and Electronic Line Shapes</a>”)</li>
+    </ul>
+  </li>
+</ul>
+:ET
